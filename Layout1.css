@@ -26,14 +26,14 @@ header{
     padding: 100px 0px;
 }
 
-.sub-con1{
+.sub-container-1{
     width: 30%;
     height: 340px;
     position: relative;
     bottom: 6rem;
     background-color: #fa8a7e;
 }
-.sub-con2{
+.sub-container-2{
     width: 50%;
     height: 340px;
     position: relative;

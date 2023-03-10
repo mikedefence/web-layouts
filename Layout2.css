@@ -52,7 +52,7 @@ nav p{
     gap: 2rem;
 }
 
-.main{
+.main-container{
     width: 50%;
     height: 342px;
     margin-top: .1rem;
@@ -60,12 +60,12 @@ nav p{
     background-color: #fbad17;
 }
 
-.main p{
+.main-container p{
     text-align: center;
     padding: 10rem 0rem;
 }
 
-.sub-main{
+.sub-main-container{
     display: grid;
     grid-template-columns: 1fr 2fr ;
     width: 40%;
@@ -73,19 +73,19 @@ nav p{
     height: 350px;
 }
 
-.con-1{
+.container-1{
     width: 97%;
     height: 150px;
     border: 1px solid transparent;
     background-color: #81b598;
 }
 
-.con-1 p{
+.container-1 p{
     text-align: center;
     padding: 4rem 0rem;
 }
 
-.con-2{
+.container-2{
     width: 110%;
     height: 150px;
     margin-left: 1rem;
@@ -93,12 +93,12 @@ nav p{
     background-color: #f1b598;
 }
 
-.con-2 p{
+.container-2 p{
     text-align: center;
     padding: 4rem 0rem;
 }
 
-.con-3{
+.container-3{
     width: 330%;
     height: 180px;
     margin-top: 2px;
@@ -106,7 +106,7 @@ nav p{
     background-color: #303150;
 }
 
-.con-3 p{
+.container-3 p{
     text-align: center;
     padding: 5rem 0rem;
 }
